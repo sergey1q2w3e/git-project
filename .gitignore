@@ -1,0 +1,9 @@
+logs/
+bin/
+cmd/
+dev/
+etc/
+mingw64/
+usr/
+# txt-files
+docs/*.txt
